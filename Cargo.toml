@@ -1,12 +1,12 @@
 [package]
 name = "cmd-infer"
-version = "0.1.1"
+version = "0.2.0"
 edition = "2024"
-description = "AI-powered shell command fixer using DeepSeek"
+description = "AI-powered shell command fixer using the Anthropic Messages API"
 license = "MIT"
-repository = "https://github.com/Dawson-Jones/command-inference"
+repository = "https://github.com/DawsonJia/command-inference"
 readme = "README.md"
-keywords = ["cli", "ai", "shell", "command", "deepseek"]
+keywords = ["cli", "ai", "shell", "command", "claude"]
 categories = ["command-line-utilities"]
 
 [[bin]]
